@@ -13,4 +13,4 @@ To do this you need to fisrt activate your environment (the one from previous le
 
 Then you install the libraries as you did for the previous lessons:
 
-``` conda install scikit-learn pandas
+``` conda install scikit-learn pandas ```
